@@ -1,0 +1,12 @@
+C:\Users\Gilon\Desktop\Cielo\WPF_Application\SampleTalk\CommonLib\bin\Debug\net6.0-windows\CommonLib.deps.json
+C:\Users\Gilon\Desktop\Cielo\WPF_Application\SampleTalk\CommonLib\bin\Debug\net6.0-windows\CommonLib.dll
+C:\Users\Gilon\Desktop\Cielo\WPF_Application\SampleTalk\CommonLib\bin\Debug\net6.0-windows\CommonLib.pdb
+C:\Users\Gilon\Desktop\Cielo\WPF_Application\SampleTalk\CommonLib\obj\Debug\net6.0-windows\CommonLib.csproj.AssemblyReference.cache
+C:\Users\Gilon\Desktop\Cielo\WPF_Application\SampleTalk\CommonLib\obj\Debug\net6.0-windows\CommonLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gilon\Desktop\Cielo\WPF_Application\SampleTalk\CommonLib\obj\Debug\net6.0-windows\CommonLib.AssemblyInfoInputs.cache
+C:\Users\Gilon\Desktop\Cielo\WPF_Application\SampleTalk\CommonLib\obj\Debug\net6.0-windows\CommonLib.AssemblyInfo.cs
+C:\Users\Gilon\Desktop\Cielo\WPF_Application\SampleTalk\CommonLib\obj\Debug\net6.0-windows\CommonLib.csproj.CoreCompileInputs.cache
+C:\Users\Gilon\Desktop\Cielo\WPF_Application\SampleTalk\CommonLib\obj\Debug\net6.0-windows\CommonLib.dll
+C:\Users\Gilon\Desktop\Cielo\WPF_Application\SampleTalk\CommonLib\obj\Debug\net6.0-windows\refint\CommonLib.dll
+C:\Users\Gilon\Desktop\Cielo\WPF_Application\SampleTalk\CommonLib\obj\Debug\net6.0-windows\CommonLib.pdb
+C:\Users\Gilon\Desktop\Cielo\WPF_Application\SampleTalk\CommonLib\obj\Debug\net6.0-windows\ref\CommonLib.dll

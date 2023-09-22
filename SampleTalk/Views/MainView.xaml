@@ -1,0 +1,45 @@
+﻿<Window x:Class="SampleTalk.Views.MainView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SampleTalk.Views" 
+        xmlns:controls="clr-namespace:SampleTalk.Controls"
+        xmlns:vm="clr-namespace:SampleTalk.ViewModels" xmlns:controls1="clr-namespace:WpfLib.Controls;assembly=WpfLib"
+        mc:Ignorable="d"
+        WindowStyle="None"
+        Title="MainView" Height="550" Width="350">
+
+    <Window.Resources>
+        <DataTemplate DataType="{x:Type vm:LoginControlViewModel}">
+            <controls:LoginControl/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type vm:ChangePwdControlViewModel}">
+            <controls:ChangePwdControl/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type vm:SignupControlViewModel}">
+            <controls:SignupControl/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type vm:FindAccountViewModel}">
+            <controls:FindAccountControl/>
+        </DataTemplate>
+    </Window.Resources>
+    
+    <WindowChrome.WindowChrome>
+        <WindowChrome CaptionHeight="20" ResizeBorderThickness="2"/>
+    </WindowChrome.WindowChrome>
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        
+        <!--Title Bar-->
+        <controls:TitleBar/>
+
+        <!--Body-->
+        <controls1:ControlSlider Grid.Row="1" ViewModel="{Binding CurrentViewModel}" SlideType="{Binding SlideType}" Duration="0:0:0.5"/>
+
+    </Grid>
+</Window>
