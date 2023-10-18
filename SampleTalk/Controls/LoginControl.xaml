@@ -50,6 +50,30 @@
                 <Separator Grid.Column="2"/>
             </Grid>
             <Button Content="QR코드 로그인" Height="{StaticResource ElementHeight}"/>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Button Grid.Column="0" Content="카카오톡으로 로그인" Height="{StaticResource ElementHeight}" Background="#eeee00"
+                    Command="{Binding LoginWithKakaoCommand}"/>
+                <Button Grid.Column="1" Content="카카오톡 로그아웃" Height="{StaticResource ElementHeight}"  Background="#eeee00"
+                    Command="{Binding LogoutKakaoCommand}"/>
+            </Grid>
+
+            <TextBox Text="{Binding CustomText}" FontSize="20"/>
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Button Grid.Column="0" Content="커스텀 메시지" Height="{StaticResource ElementHeight}" Background="Pink"
+                    Command="{Binding SendCustomMessageCommand}"/>
+                <Button Grid.Column="1" Content="템플릿 메시지" Height="{StaticResource ElementHeight}"  Background="Pink"
+                    Command="{Binding SendTemplateMessageCommand}"/>
+            </Grid>
+
 
             <StackPanel Orientation="Horizontal" Height="{StaticResource ElementHeight}">
                 <CheckBox Content="자동로그인" VerticalContentAlignment="Center"/>

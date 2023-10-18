@@ -68,3 +68,11 @@ C:\Users\Gilon\Desktop\Cielo\WPF_Application\SampleTalk\SampleTalk\obj\Debug\net
 C:\Users\Gilon\Desktop\Cielo\WPF_Application\SampleTalk\SampleTalk\bin\Debug\net6.0-windows\SampleTalk.dll.config
 C:\Users\Gilon\Desktop\Cielo\WPF_Application\SampleTalk\SampleTalk\bin\Debug\net6.0-windows\CommonLib.dll
 C:\Users\Gilon\Desktop\Cielo\WPF_Application\SampleTalk\SampleTalk\bin\Debug\net6.0-windows\CommonLib.pdb
+C:\Users\Gilon\Desktop\Cielo\WPF_Application\SampleTalk\SampleTalk\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Gilon\Desktop\Cielo\WPF_Application\SampleTalk\SampleTalk\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Gilon\Desktop\Cielo\WPF_Application\SampleTalk\SampleTalk\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Gilon\Desktop\Cielo\WPF_Application\SampleTalk\SampleTalk\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Gilon\Desktop\Cielo\WPF_Application\SampleTalk\SampleTalk\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Gilon\Desktop\Cielo\WPF_Application\SampleTalk\SampleTalk\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Gilon\Desktop\Cielo\WPF_Application\SampleTalk\SampleTalk\obj\Debug\net6.0-windows\SampleTalk_Content.g.cs
+C:\Users\Gilon\Desktop\Cielo\WPF_Application\SampleTalk\SampleTalk\bin\Debug\net6.0-windows\RestSharp.dll

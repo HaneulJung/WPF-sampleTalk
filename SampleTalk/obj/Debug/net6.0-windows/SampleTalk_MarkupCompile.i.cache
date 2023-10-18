@@ -11,9 +11,9 @@ false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\Gilon\Desktop\Cielo\WPF_Application\SampleTalk\SampleTalk\App.xaml
 11-318440595
-
-29-697213679
-2124399762
+3-320338576
+30-1034158182
+2161599517044
 Controls\ChangePwdControl.xaml;Controls\FindAccountControl.xaml;Controls\LoginControl.xaml;Controls\MainNaviControl.xaml;Controls\SignupControl.xaml;Controls\TitleBar.xaml;Styles\Buttons.xaml;Styles\Colors.xaml;Styles\Fonts.xaml;Styles\MainStyles.xaml;Views\MainView.xaml;
 
 False
